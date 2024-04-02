@@ -1,5 +1,5 @@
 # Boilerplate and Starter for Next.js 14+, Tailwind CSS 3.4, and TypeScript.
-
+ADD SWR TO THIS 
 <p align="center">
   <a href="https://creativedesignsguru.com/demo/Nextjs-Boilerplate/"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next js starter banner"></a>
 </p>
